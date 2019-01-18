@@ -45,7 +45,8 @@ class Area
 
      public static void main(String args[]) 
 
-	{
+      {  
+	     
          Area obj = new Area();       
 
          Scanner scan = new Scanner(System.in);
@@ -113,6 +114,6 @@ class Area
 
          }    
  
-    }
+       }
 
 }
